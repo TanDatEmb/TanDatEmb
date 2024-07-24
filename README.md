@@ -97,7 +97,8 @@
 
 ## My Projects
 
-- [Quadcopter](https://github.com/yourusername/STM32-Tutorial)
+- [Quadcopter]()
 - [5-Axis CNC]()
 - [Self-Balancing Robot]()
+- [PID Motor Control]()
 
