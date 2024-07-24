@@ -22,10 +22,10 @@
   <a href="https://github.com/TanDatEmb" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:tandat.emb@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://zalo.me/your-zalo-id" target="_blank">
+  <a href="https://zalo.me/84344226115" target="_blank">
     <img src="https://img.shields.io/badge/Zalo-%23009B77?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
   </a>
 </div>
