@@ -1,4 +1,5 @@
 # Hi there, I'm Your Name 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Le+Tan+Dat;Embedded+Engineer+%26+Robotics+Reseacher+)](https://git.io/typing-svg)
 
 ![Welcome GIF](https://media.giphy.com/media/3o7aCVp6KBj5kFFoKQ/giphy.gif)
 
