@@ -1,9 +1,9 @@
 # <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 2em; color: #2E86C1;">Hi there, I'm Le Tan Dat 👋</span>
 
-
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQyZ2ZsN2ptaGdmdGpvODNtZjdiamRnZWwwdGg1aGk1bWNodmppNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.webp" alt="Welcome GIF" width="100">
 </div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Le+Tan+Dat;Embedded+Engineer+%26+Robotics+Researcher+" alt="Typing SVG">
@@ -28,6 +28,37 @@
     <img src="https://img.shields.io/badge/Zalo-%23009B77?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
   </a>
 </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+        .gif {
+            margin-right: 20px;
+        }
+        .info {
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://media2.giphy.com/media/988J8SIPN4xcvrlmtO/giphy.gif" alt="Git" class="gif" width="200" height="200">
+        <div class="info">
+            <h2>Education and Profession</h2>
+            <p><strong>School:</strong> Cao Thang Technical College</p>
+            <p><strong>Major:</strong> Control and Automation</p>
+            <p><strong>Current Position:</strong> Research Student</p>
+        </div>
+    </div>
+</body>
+</html>
 
 ## About Me
 - 🔭 **Currently Working On**: Developing advanced control algorithms for industrial and agricultural robots, focusing on enhancing efficiency and performance.
