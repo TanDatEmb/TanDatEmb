@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/988J8SIPN4xcvrlmtO/giphy.gif" alt="Welcome GIF" width="100">
+  <img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="Welcome GIF" width="100">
 </div>
 
 ## About Me
