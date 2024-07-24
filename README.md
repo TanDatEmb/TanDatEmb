@@ -31,7 +31,7 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="200" style="margin-right: 20px;" />
+  <img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="" style="margin-right: 20px;" />
   <div>
     <h2>Education Information</h2>
     <ul>
