@@ -70,13 +70,13 @@
 
 <div align="center">
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> 
-    <img src="https://www.st.com/content/dam/ecosystems/stm32-gui/stm32-logo.png" alt="STM32" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/OIP.YrSJyUpeOoa_b4qG85I0OwHaCM?w=312&h=103&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="STM32" width="" height="40"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://support.arduino.cc/hc/article_attachments/13367262344860" alt="Arduino" width="40" height="40"/>
+    <img src="https://support.arduino.cc/hc/article_attachments/13367262344860" alt="Arduino" width="" height="40"/>
   </a>
   <a href="https://www.espressif.com/en/products/socs" target="_blank"> 
-    <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="ESP" width="40" height="40"/>
+    <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="ESP" width="" height="40"/>
   </a>
 </div>
 
