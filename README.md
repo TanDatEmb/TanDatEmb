@@ -1,5 +1,6 @@
 # <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 2em; color: #2E86C1;">Hi there, I'm Le Tan Dat 👋</span>
 
+
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQyZ2ZsN2ptaGdmdGpvODNtZjdiamRnZWwwdGg1aGk1bWNodmppNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.webp" alt="Welcome GIF" width="100">
 </div>
@@ -76,7 +77,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="" height="0"/>
   </a>
 </div>
 
@@ -116,5 +117,6 @@
 - [Quadcopter](https://github.com/yourusername/STM32-Tutorial)
 - [5-Axis CNC]()
 - [Self-Balancing Robot]()
+
 
 
