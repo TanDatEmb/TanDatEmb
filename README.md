@@ -101,8 +101,8 @@
 
 <table>
 <tr>
-<td><img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="200"/></td>
-<td>
+<td><img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="200" style="display: block;"/></td>
+<td style="vertical-align: top;">
 <h2>Education Information</h2>
 <ul>
   <li><strong>Institution:</strong> Cao Thang Technical College</li>
