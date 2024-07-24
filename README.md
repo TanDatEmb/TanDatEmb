@@ -1,7 +1,24 @@
 # Hi there, I'm Le Tan Dat 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Le+Tan+Dat;Embedded+Engineer+%26+Robotics+Reseacher+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&width=435&lines=Le+Tan+Dat;Embedded+Engineer+%26+Robotics+Reseacher+)](https://git.io/typing-svg)
 
-![Welcome GIF](https://media.giphy.com/media/3o7aCVp6KBj5kFFoKQ/giphy.gif)
+![Welcome GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFnNm9tZXJzem1rZGd1MWhvMDJtaWhzaHJscXdzdDVrOGtiZ2t4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.webp)
+
+### Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/le-tan-dat-9b4287296" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://github.com/TanDatEmb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub" height="30" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23121011?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" />
+  </a>
+  <a href="https://zalo.me/your-zalo-id" target="_blank">
+    <img src="https://img.shields.io/badge/Zalo-%23009B77?style=flat&logo=zalo&logoColor=white" alt="Zalo" height="30" />
+  </a>
+</p>
 
 ## About Me
 
@@ -48,12 +65,12 @@
 
   <!-- Altium Designer -->
   <a href="https://www.altium.com/" target="_blank"> 
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Altium_Designer_Logo.svg/1200px-Altium_Designer_Logo.svg.png](https://cdn-static.altium.com/sites/default/files/media_icon/2024-06/AD_A365_logo_horizontal.svg)" alt="altium" width="40" height="40"/> 
+    <img src="https://cdn-static.altium.com/sites/default/files/media_icon/2021-07/se_logo.svg" width="30" height="40"/> 
   </a>
 
   <!-- KiCad -->
   <a href="https://www.kicad.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KiCad_logo.svg/1024px-KiCad_logo.svg.png" alt="kicad" width="40" height="40"/> 
+    <img src= "https://www.kicad.org/img/kicad_logo_small.png" width="70" height="40"/> 
   </a>
 </p>
 
@@ -62,30 +79,22 @@
 <p align="left">
   <!-- STM32 -->
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STMicroelectronics_logo.svg/1280px-STMicroelectronics_logo.svg.png" alt="stm32" width="40" height="40"/> 
+    <img src="https://www.st.com/content/dam/ecosystems/stm32-gui/stm32-logo.png" alt="stm32" width="" height="40"/> 
   </a>
 
   <!-- Arduino -->
   <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="arduino" width="40" height="40"/> 
+    <img src="https://support.arduino.cc/hc/article_attachments/13367262344860" alt="arduino" width="" height="40"/> 
   </a>
 
   <!-- ESP -->
   <a href="https://www.espressif.com/en/products/socs" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESP32.svg/1280px-ESP32.svg.png" alt="esp" width="40" height="40"/> 
+    <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="esp" width="" height="40"/> 
   </a>
 </p>
 
-
-
 ### My Projects:
-- [STM32-Tutorial](https://github.com/yourusername/STM32-Tutorial)
-- [MATLAB Robotics](https://github.com/yourusername/MATLAB-Robotics)
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername/github-readme-stats)
-
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://github.com/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="yourusername" height="30" width="40" /></a>
-</p>
+- [Quadcopter](https://github.com/yourusername/STM32-Tutorial)
+- [5-Axis CNC]()
+- [Self-Balancing Robot]()
+- 
