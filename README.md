@@ -39,13 +39,13 @@
 
 <div align="center">
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="" height="50"/>
   </a>
 </div>
 
@@ -53,16 +53,16 @@
 
 <div align="center">
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="" height="50"/>
   </a>
   <a href="https://www.ni.com/en-us/innovations/labview.html" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="LabVIEW" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="LabVIEW" width="" height="50"/>
   </a>
   <a href="https://www.altium.com/" target="_blank"> 
-    <img src="https://cdn-static.altium.com/sites/default/files/media_icon/2021-07/se_logo.svg" alt="Altium Designer" width="40" height="40"/>
+    <img src="https://cdn-static.altium.com/sites/default/files/media_icon/2021-07/se_logo.svg" alt="Altium Designer" width="" height="50"/>
   </a>
   <a href="https://www.kicad.org/" target="_blank"> 
-    <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" width="70" height="40"/>
+    <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" width="" height="50"/>
   </a>
 </div>
 
