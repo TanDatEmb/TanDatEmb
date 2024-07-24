@@ -14,12 +14,68 @@
 - 💬 **Ask Me About**: Feel free to reach out if you have questions about industrial robotics, agricultural robotics, control algorithms, or embedded systems programming. I’m always open to discussions and knowledge sharing in these areas.
 
 
-### Languages and Tools:
+### Languages
+
 <p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-...
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+
+  <!-- C++ -->
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
+  </a>
 </p>
+
+### Software
+
+<p align="left">
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
+  </a>
+
+  <!-- LabVIEW -->
+  <a href="https://www.ni.com/en-us/innovations/labview.html" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="labview" width="40" height="40"/> 
+  </a>
+
+  <!-- Altium Designer -->
+  <a href="https://www.altium.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/altium/altium-original.svg" alt="altium" width="40" height="40"/> 
+  </a>
+
+  <!-- KiCad -->
+  <a href="https://www.kicad.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kicad/kicad-original.svg" alt="kicad" width="40" height="40"/> 
+  </a>
+</p>
+
+### Microcontrollers
+
+<p align="left">
+  <!-- STM32 -->
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stm32/stm32-original.svg" alt="stm32" width="40" height="40"/> 
+  </a>
+
+  <!-- Arduino -->
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+
+  <!-- ESP -->
+  <a href="https://www.espressif.com/en/products/socs" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/esp/esp-original.svg" alt="esp" width="40" height="40"/> 
+  </a>
+</p>
+
 
 ### My Projects:
 - [STM32-Tutorial](https://github.com/yourusername/STM32-Tutorial)
