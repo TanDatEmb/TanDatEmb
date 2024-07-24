@@ -1,12 +1,18 @@
-# Hi there, I'm Your Name 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Le+Tan+Dat;Embedded+Engineer+%26+Robotics+Reseacher+)](https://git.io/typing-svg)
+# Hi there, I'm Le Tan Dat 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Le+Tan+Dat;Embedded+Engineer+%26+Robotics+Reseacher+)](https://git.io/typing-svg)
 
 ![Welcome GIF](https://media.giphy.com/media/3o7aCVp6KBj5kFFoKQ/giphy.gif)
 
-- 🔭 I’m currently working on embedded systems and automation projects.
-- 🌱 I’m currently learning advanced robotics and AI.
-- 👯 I’m looking to collaborate on innovative tech projects.
-- 💬 Ask me about CNC, Robotics, and Embedded Systems.
+## About Me
+
+- 🔭 **Currently Working On**: I’m currently focused on automation engineering, specifically researching and developing advanced control algorithms for industrial and agricultural robots. My work involves creating innovative solutions to enhance the efficiency and performance of automated systems in various applications.
+
+- 🌱 **Currently Learning**: I’m delving deeper into the fields of robotics and embedded systems programming. My goal is to master cutting-edge technologies and methodologies that push the boundaries of what robots can achieve in industrial and agricultural settings.
+
+- 👯 **Looking To Collaborate On**: I’m eager to collaborate on projects that involve automation, control algorithms, and robotics. Whether it's developing new robotic systems, optimizing control strategies, or integrating embedded systems, I’m interested in partnering with professionals who are passionate about advancing technology.
+
+- 💬 **Ask Me About**: Feel free to reach out if you have questions about industrial robotics, agricultural robotics, control algorithms, or embedded systems programming. I’m always open to discussions and knowledge sharing in these areas.
+
 
 ### Languages and Tools:
 <p align="left">
