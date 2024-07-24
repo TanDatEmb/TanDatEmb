@@ -101,4 +101,15 @@
 - [Self-Balancing Robot]()
 
 
+<div style="display: flex; align-items: center;">
+  <img src="https://media2.giphy.com/media/988J8SIPN4xcvrlmtO/giphy.gif" alt="GIF" width="200" style="margin-right: 20px;" />
+  <div>
+    <h2>Education Information</h2>
+    <ul>
+      <li><strong>Institution:</strong> Cao Thang Technical College</li>
+      <li><strong>Field of Study:</strong> Control and Automation</li>
+      <li><strong>Current Position:</strong> Research Student</li>
+    </ul>
+  </div>
+</div>
 
