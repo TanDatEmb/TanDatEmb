@@ -37,10 +37,11 @@
       <li><strong>Institution:</strong> Cao Thang Technical College</li>
       <li><strong>Field of Study:</strong> Control and Automation</li>
       <li><strong>Current Position:</strong> Research Student</li>
-      <img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="100" style="margin-left: 20px;" />
     </ul>
   </div>
+  <img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="100" style="margin-left: 20px;" />
 </div>
+
 
 
 ## About Me
@@ -99,6 +100,4 @@
 - [Quadcopter](https://github.com/yourusername/STM32-Tutorial)
 - [5-Axis CNC]()
 - [Self-Balancing Robot]()
-
-
 
