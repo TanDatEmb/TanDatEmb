@@ -48,12 +48,12 @@
 
   <!-- Altium Designer -->
   <a href="https://www.altium.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/altium/altium-original.svg" alt="altium" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Altium_Designer_Logo.svg/1200px-Altium_Designer_Logo.svg.png" alt="altium" width="40" height="40"/> 
   </a>
 
   <!-- KiCad -->
   <a href="https://www.kicad.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kicad/kicad-original.svg" alt="kicad" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KiCad_logo.svg/1024px-KiCad_logo.svg.png" alt="kicad" width="40" height="40"/> 
   </a>
 </p>
 
@@ -62,19 +62,20 @@
 <p align="left">
   <!-- STM32 -->
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stm32/stm32-original.svg" alt="stm32" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STMicroelectronics_logo.svg/1280px-STMicroelectronics_logo.svg.png" alt="stm32" width="40" height="40"/> 
   </a>
 
   <!-- Arduino -->
   <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="arduino" width="40" height="40"/> 
   </a>
 
   <!-- ESP -->
   <a href="https://www.espressif.com/en/products/socs" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/esp/esp-original.svg" alt="esp" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESP32.svg/1280px-ESP32.svg.png" alt="esp" width="40" height="40"/> 
   </a>
 </p>
+
 
 
 ### My Projects:
