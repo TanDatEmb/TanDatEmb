@@ -99,18 +99,13 @@
 - [5-Axis CNC]()
 - [Self-Balancing Robot]()
 
-<table>
-<tr>
-<td><img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="200" style="display: block;"/></td>
-<td style="vertical-align: top;">
-<h2>Education Information</h2>
-<ul>
-  <li><strong>Institution:</strong> Cao Thang Technical College</li>
-  <li><strong>Field of Study:</strong> Control and Automation</li>
-  <li><strong>Current Position:</strong> Research Student</li>
-</ul>
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="200" style="display: inline-block; vertical-align: top;"/>
+
+**Education Information**
+
+- **Institution:** Cao Thang Technical College
+- **Field of Study:** Control and Automation
+- **Current Position:** Research Student
+
 
 
