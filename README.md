@@ -32,7 +32,7 @@
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="max-width: 300px;">
     <h2 style="font-size: 16px;">Education Information</h2>
-    <img align="left" alt="GIF" src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif"      width="100"/>
+    <img align="left" alt="GIF" src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif"      width="80"/>
     <ul style="font-size: 14px; margin: 0; padding: 0;">
       <li><strong>Institution:</strong> Cao Thang Technical College</li>
       <li><strong>Field of Study:</strong> Control and Automation</li>
