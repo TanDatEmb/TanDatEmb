@@ -48,7 +48,7 @@
 
   <!-- Altium Designer -->
   <a href="https://www.altium.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Altium_Designer_Logo.svg/1200px-Altium_Designer_Logo.svg.png" alt="altium" width="40" height="40"/> 
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Altium_Designer_Logo.svg/1200px-Altium_Designer_Logo.svg.png](https://cdn-static.altium.com/sites/default/files/media_icon/2024-06/AD_A365_logo_horizontal.svg)" alt="altium" width="40" height="40"/> 
   </a>
 
   <!-- KiCad -->
