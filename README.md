@@ -32,15 +32,16 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="100" style="margin-right: 20px;" />
-  <div>
-    <h2>Education Information</h2>
-    <ul>
+  <div style="max-width: 300px;">
+    <h2 style="font-size: 16px;">Education Information</h2>
+    <ul style="font-size: 14px;">
       <li><strong>Institution:</strong> Cao Thang Technical College</li>
       <li><strong>Field of Study:</strong> Control and Automation</li>
       <li><strong>Current Position:</strong> Research Student</li>
     </ul>
   </div>
 </div>
+
 
 ## About Me
 - 🔭 **Currently Working On**: Developing advanced control algorithms for industrial and agricultural robots, focusing on enhancing efficiency and performance.
