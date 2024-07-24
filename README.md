@@ -29,37 +29,18 @@
     <img src="https://img.shields.io/badge/Zalo-%23009B77?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
   </a>
 </div>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile</title>
-    <style>
-        .container {
-            display: flex;
-            align-items: center;
-        }
-        .gif {
-            margin-right: 20px;
-        }
-        .info {
-            max-width: 600px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="https://media2.giphy.com/media/988J8SIPN4xcvrlmtO/giphy.gif" alt="Git" class="gif" width="200" height="200">
-        <div class="info">
-            <h2>Education and Profession</h2>
-            <p><strong>School:</strong> Cao Thang Technical College</p>
-            <p><strong>Major:</strong> Control and Automation</p>
-            <p><strong>Current Position:</strong> Research Student</p>
-        </div>
-    </div>
-</body>
-</html>
+<div style="display: flex; align-items: center;">
+  <img src="https://media2.giphy.com/media/988J8SIPN4xcvrlmtO/giphy.gif" alt="GIF" width="200" style="margin-right: 20px;" />
+  <div>
+    <h2>Education Information</h2>
+    <ul>
+      <li><strong>Institution:</strong> Cao Thang Technical College</li>
+      <li><strong>Field of Study:</strong> Control and Automation</li>
+      <li><strong>Current Position:</strong> Research Student</li>
+    </ul>
+  </div>
+</div>
+
 
 ## About Me
 - 🔭 **Currently Working On**: Developing advanced control algorithms for industrial and agricultural robots, focusing on enhancing efficiency and performance.
