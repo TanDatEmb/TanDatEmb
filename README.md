@@ -30,18 +30,17 @@
   </a>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="100" style="margin-right: 20px;" />
+<div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="max-width: 300px;">
     <h2 style="font-size: 16px;">Education Information</h2>
-    <ul style="font-size: 14px;">
+    <ul style="font-size: 14px; margin: 0; padding: 0;">
       <li><strong>Institution:</strong> Cao Thang Technical College</li>
       <li><strong>Field of Study:</strong> Control and Automation</li>
       <li><strong>Current Position:</strong> Research Student</li>
     </ul>
   </div>
+  <img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="100" style="margin-left: 20px;" />
 </div>
-
 
 ## About Me
 - 🔭 **Currently Working On**: Developing advanced control algorithms for industrial and agricultural robots, focusing on enhancing efficiency and performance.
@@ -99,14 +98,6 @@
 - [Quadcopter](https://github.com/yourusername/STM32-Tutorial)
 - [5-Axis CNC]()
 - [Self-Balancing Robot]()
-
-<img src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" alt="GIF" width="200" style="display: inline-block; vertical-align: top;"/>
-
-**Education Information**
-
-- **Institution:** Cao Thang Technical College
-- **Field of Study:** Control and Automation
-- **Current Position:** Research Student
 
 
 
