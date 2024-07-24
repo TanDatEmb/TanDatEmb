@@ -1,5 +1,4 @@
 # <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 2em; color: #2E86C1;">Hi there, I'm Le Tan Dat 👋</span>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQyZ2ZsN2ptaGdmdGpvODNtZjdiamRnZWwwdGg1aGk1bWNodmppNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.webp" alt="Welcome GIF" width="100">
