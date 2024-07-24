@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/Zalo-%23009B77?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
   </a>
 </div>
+
 <div style="display: flex; align-items: center;">
   <img src="https://media2.giphy.com/media/988J8SIPN4xcvrlmtO/giphy.gif" alt="GIF" width="200" style="margin-right: 20px;" />
   <div>
