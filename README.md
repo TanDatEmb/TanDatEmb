@@ -30,6 +30,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media2.giphy.com/media/988J8SIPN4xcvrlmtO/giphy.gif" alt="Welcome GIF" width="100">
+</div>
+
 ## About Me
 - 🔭 **Currently Working On**: Developing advanced control algorithms for industrial and agricultural robots, focusing on enhancing efficiency and performance.
 - 🌱 **Currently Learning**: Expanding knowledge in robotics and embedded systems programming, aiming to leverage cutting-edge technologies.
