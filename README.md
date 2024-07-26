@@ -101,3 +101,5 @@
 - [Self-Balancing Robot]()
 - [PID Motor Control]()
 <img src="https://komarev.com/ghpvc/?username=TanDatEmb&color=blueviolet">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nabla&pause=1000&color=030101&background=FF101000&vCenter=true&width=700&height=30&lines=%E2%80%9CThank+you+for+visiting+a+small+corner+of+my+space+on+the+internet%E2%80%9D" alt="Typing SVG" /></a>
