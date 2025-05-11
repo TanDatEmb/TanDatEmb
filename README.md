@@ -32,33 +32,32 @@
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="max-width: 300px;">
     <h2 style="font-size: 16px;">Education Information</h2>
-    <img align="left" alt="GIF" src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif"      width="90"/>
+    <img align="left" alt="GIF" src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" width="90"/>
     <ul style="font-size: 14px; margin: 0; padding: 0;">
       <li><strong>Institution:</strong> Cao Thang Technical College</li>
       <li><strong>Field of Study:</strong> Control and Automation</li>
-      <li><strong>Current Position:</strong> Research Student</li>
+      <li><strong>Current Position:</strong> UAV Research Student</li>
     </ul>
   </div>
 </div>
 
-
-
 ## About Me
-- 🔭 **Currently Working On**: Developing advanced control algorithms for industrial and agricultural robots, focusing on enhancing efficiency and performance.
-- 🌱 **Currently Learning**: Expanding knowledge in robotics and embedded systems programming, aiming to leverage cutting-edge technologies.
-- 👯 **Looking to Collaborate On**: Projects in automation, control algorithms, and robotics, seeking to innovate and optimize systems.
-- 💬 **Ask Me About**: Industrial and agricultural robotics, control algorithms, and embedded systems programming.
+
+- 🔭 **Currently Working On**: Developing UAV control systems, focusing on autonomous navigation, stability, and payload optimization.
+- 🌱 **Currently Learning**: Advanced flight dynamics, sensor fusion, and real-time embedded systems for UAVs.
+- 👯 **Looking to Collaborate On**: UAV-related projects, including autonomous navigation, swarm robotics, and aerial data collection.
+- 💬 **Ask Me About**: UAV control algorithms, embedded systems for drones, and robotics research.
 
 ## Languages
 
 <div align="center">
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="" height="50"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="" height="50"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="" height="50"/>
   </a>
 </div>
@@ -66,16 +65,16 @@
 ## Software
 
 <div align="center">
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="" height="50"/>
   </a>
-  <a href="https://www.ni.com/en-us/innovations/labview.html" target="_blank"> 
+  <a href="https://www.ni.com/en-us/innovations/labview.html" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="LabVIEW" width="" height="50"/>
   </a>
-  <a href="https://www.altium.com/" target="_blank"> 
+  <a href="https://www.altium.com/" target="_blank">
     <img src="https://cdn-static.altium.com/sites/default/files/media_icon/2021-07/se_logo.svg" alt="Altium Designer" width="" height="50"/>
   </a>
-  <a href="https://www.kicad.org/" target="_blank"> 
+  <a href="https://www.kicad.org/" target="_blank">
     <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" width="" height="50"/>
   </a>
 </div>
@@ -83,23 +82,23 @@
 ## Microcontrollers
 
 <div align="center">
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> 
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank">
     <img src="https://th.bing.com/th/id/OIP.YrSJyUpeOoa_b4qG85I0OwHaCM?w=312&h=103&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="STM32" width="" height="40"/>
   </a>
-  <a href="https://www.arduino.cc/" target="_blank"> 
+  <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://support.arduino.cc/hc/article_attachments/13367262344860" alt="Arduino" width="" height="40"/>
   </a>
-  <a href="https://www.espressif.com/en/products/socs" target="_blank"> 
+  <a href="https://www.espressif.com/en/products/socs" target="_blank">
     <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="ESP" width="" height="40"/>
   </a>
 </div>
 
 ## My Projects
 
-- [Quadcopter]()
-- [5-Axis CNC]()
-- [Self-Balancing Robot]()
-- [PID Motor Control]()
+- [Autonomous Quadcopter]()
+- [UAV Swarm Simulation]()
+- [Precision Agriculture Drone]()
+- [PID Motor Control for UAVs]()
 <img src="https://komarev.com/ghpvc/?username=TanDatEmb&color=blueviolet">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nabla&pause=1000&color=030101&background=FF101000&vCenter=true&width=700&height=30&lines=%E2%80%9CThank+you+for+visiting+a+small+corner+of+my+space+on+the+internet%E2%80%9D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nabla&pause=1000&color=030101&background=FF101000&vCenter=true&width=700&height=30&lines=%E2%80%9CThank+you+for+exploring+my+UAV-focused+research+space%E2%80%9D" alt="Typing SVG" /></a>
