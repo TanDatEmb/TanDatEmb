@@ -1,86 +1,51 @@
-# <p align="center">🚀 Hi there, I'm <span style="color:#2E86C1;">Le Tan Dat</span> 👋</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200">
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Robotics%3A+Automation+%7C+Control+Algorithms;Computer+Vision%3A+Image+Processing+%7C+Machine+Learning;UAV%3A+Flight+Control+%7C+Navigation+Algorithms" alt="Typing SVG">
-</div>
-
-
+<!-- Hero Section -->
+<section align="center" style="background: url('https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80') center/cover; padding: 100px 0;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhlNWlzcmxxNGNnanBxdnJndHhhZHI4dWF1a2VhZmN2OW0wanc2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5TS97TgJH2LlHkOIj/giphy.gif" alt="UAV Flight" width="300" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+  <h1 style="color: #00E5FF; font-size: 3rem; margin-top: 20px;">Le Tan Dat</h1>
+  <p style="color: #FFFFFF; font-size: 1.2rem; margin-top: 10px;"><em>R&D Engineer • UAV Systems • Computer Vision</em></p>
+</section>
 
 ---
 
-## 🌟 About Me  
-🚀 Passionate about **Robotics, Computer Vision, AI, and UAV Systems**.  
-🔬 Experienced in **automation, control algorithms, image processing, and navigation**.  
-🤖 Focused on **building intelligent systems** for industrial and autonomous applications.  
+## 👋 About Me
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600">
-</p>
+I’m **Le Tan Dat**, an R&D Engineer specializing in **Unmanned Aerial Vehicles**. With a strong background in flight control algorithms, computer vision, and machine learning, I create robust, autonomous UAV solutions that excel in both simulation and real-world applications.
 
 ---
 
-## 🔥 Skills  
+## 🛠️ Technical Expertise
 
-### 🚀 Programming Languages  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/ROS-Blue?style=for-the-badge&logo=robot-operating-system&logoColor=white" alt="ROS"/>
+  <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
----
+<details>
+  <summary><strong>Full Skillset</strong></summary>
 
-### 🛠 Software & Frameworks  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="170"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="50"/>
-</p>
+- **Programming:** Python · C/C++ · C# · MATLAB/Simulink
+- **UAV & Flight Control:** PX4 · ArduPilot · MAVLink · Gazebo
+- **Perception & CV:** OpenCV · PCL · TensorFlow · PyTorch
+- **Control & State Estimation:** PID · LQR · EKF · Sensor Fusion
+- **Hardware & Embedded:** STM32 · Arduino · NVIDIA Jetson
+- **DevOps & Infra:** Git · Docker · Linux · CI/CD
 
----
-## 🚀 Featured Projects  
-📌 **[PID Motor Control System](#)** - Precision control for robotics and automation.  
-📌 **[Machine Vision Inspection System](#)** - AI-based defect detection and quality control.  
-📌 **[3D Vision for Robot Navigation](#)** - Enhancing autonomous movement with 3D perception.  
-📌 **[UAV Control System](#)** - Advanced flight control and autonomous UAV operations.  
+</details>
+
+## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="600">
-</p>
-
-
----
-
-## 🌐 Contact & Socials  
-<p align="center">
-  <a href="https://www.linkedin.com/in/le-tan-dat-9b4287296" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/TanDatEmb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:tandat.emb@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://zalo.me/84344226115" target="_blank">
-    <img src="https://img.shields.io/badge/Zalo-%23009B77?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
-  </a>
+  <a href="https://www.linkedin.com/in/le-tan-dat-9b4287296" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/TanDatEmb" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:tandat.emb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://zalo.me/84344226115" target="_blank"><img src="https://img.shields.io/badge/Zalo-009B77?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanDatEmb&color=blueviolet">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nabla&pause=1000&color=030101&background=FF101000&vCenter=true&width=700&height=30&lines=%E2%80%9CThank+you+for+visiting+a+small+corner+of+my+space+on+the+internet%E2%80%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&width=700&lines=%22Engineering+the+Future+of+UAV+Technology%22" alt="Typing SVG"/>
 </p>
