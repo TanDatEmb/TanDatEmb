@@ -32,21 +32,21 @@
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="max-width: 300px;">
     <h2 style="font-size: 16px;">Education Information</h2>
-    <img align="left" alt="GIF" src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif" width="90"/>
+    <img align="left" alt="GIF" src="https://media.giphy.com/media/988J8SIPN4xcvrlmtO/giphy-downsized-large.gif"      width="90"/>
     <ul style="font-size: 14px; margin: 0; padding: 0;">
       <li><strong>Institution:</strong> Cao Thang Technical College</li>
       <li><strong>Field of Study:</strong> Control and Automation</li>
-      <li><strong>Current Position:</strong> UAV Research Student</li>
+      <li><strong>Current Position:</strong> Research Student</li>
     </ul>
   </div>
 </div>
 
 ## About Me
 
-- 🔭 **Currently Working On**: Developing UAV control systems, focusing on autonomous navigation, stability, and payload optimization.
-- 🌱 **Currently Learning**: Advanced flight dynamics, sensor fusion, and real-time embedded systems for UAVs.
-- 👯 **Looking to Collaborate On**: UAV-related projects, including autonomous navigation, swarm robotics, and aerial data collection.
-- 💬 **Ask Me About**: UAV control algorithms, embedded systems for drones, and robotics research.
+- 🔭 **Currently Working On**: Developing advanced control algorithms for industrial and agricultural robots, focusing on enhancing efficiency and performance.
+- 🌱 **Currently Learning**: Expanding knowledge in robotics and embedded systems programming, aiming to leverage cutting-edge technologies.
+- 👯 **Looking to Collaborate On**: Projects in automation, control algorithms, and robotics, seeking to innovate and optimize systems.
+- 💬 **Ask Me About**: Industrial and agricultural robotics, control algorithms, and embedded systems programming.
 
 ## Languages
 
@@ -95,10 +95,10 @@
 
 ## My Projects
 
-- [Autonomous Quadcopter]()
-- [UAV Swarm Simulation]()
-- [Precision Agriculture Drone]()
-- [PID Motor Control for UAVs]()
+- [Quadcopter]()
+- [5-Axis CNC]()
+- [Self-Balancing Robot]()
+- [PID Motor Control]()
 <img src="https://komarev.com/ghpvc/?username=TanDatEmb&color=blueviolet">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nabla&pause=1000&color=030101&background=FF101000&vCenter=true&width=700&height=30&lines=%E2%80%9CThank+you+for+exploring+my+UAV-focused+research+space%E2%80%9D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nabla&pause=1000&color=030101&background=FF101000&vCenter=true&width=700&height=30&lines=%E2%80%9CThank+you+for+visiting+a+small+corner+of+my+space+on+the+internet%E2%80%9D" alt="Typing SVG" /></a>
