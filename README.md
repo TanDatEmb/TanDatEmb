@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="LabVIEW" width="" height="50"/>
   </a>
   <a href="https://www.altium.com/" target="_blank">
-    <img src="https://cdn-static.altium.com/sites/default/files/media_icon/2021-07/se_logo.svg" alt="Altium Designer" width="" height="50"/>
+    <img src="https://cdn.files.altium.com/sites/default/files/media_icon/2021-07/se_logo.svg" alt="Altium Designer" width="" height="40"/>
   </a>
   <a href="https://www.kicad.org/" target="_blank">
     <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" width="" height="50"/>
